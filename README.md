@@ -4,4 +4,4 @@ This is mostly education project with non-trivial task: make real-time multiplay
 The gameplay consists of sword battles.
 ![Alt Text](https://media.giphy.com/media/HZD1A7RWnNyNefBAbX/giphy.gif)
 ONE MORE .GIF
-https://media.giphy.com/media/HZD1A7RWnNyNefBAbX/giphy.gif
+https://media.giphy.com/media/hq2PoIf4ZMaujEvQFg/giphy.gif
