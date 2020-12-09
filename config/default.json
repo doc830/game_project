@@ -1,0 +1,6 @@
+{
+  "port":5000,
+  "mongoUri": "mongodb+srv://doc:0000@cluster0.5ojfo.mongodb.net/game?retryWrites=true&w=majority",
+  "jwtSecret": "Equilibrium",
+  "baseUrl": "http://localhost:5000"
+}
